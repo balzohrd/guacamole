@@ -1,0 +1,41 @@
+# Title of your blog; shows in the header
+name: "That Never Fading Smile"
+
+# Description of your content (will only be used on Google Search)
+description: "That Never Fading Smile a curated list or music for lev"
+
+# Your name. Will show in your footer + sidebar 
+author: "That Never Fading Smile"
+
+url: "http://balzohrd.github.io"
+baseurl: "/guacamole"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+author-bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper odio feugiat purus suscipit, eget feugiat elit scelerisque. Nam et molestie lectus. Integer faucibus varius massa euismod finibus. Mauris nisl turpis, gravida tincidunt pellentesque egestas, lacinia et nibh. Aliquam eu maximus dui. Suspendisse pellentesque dui a ex pulvinar, quis sollicitudin nisl congue"
+
+# Social Accounts (mine, as placeholders)
+
+twitter: #
+github: #
+dribbble: #
+instagram: #
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain: 
+ga_tracking_id: 
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
